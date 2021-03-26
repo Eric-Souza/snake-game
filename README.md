@@ -9,4 +9,4 @@
 - Use arrow keys to move the snake.
 - With each food (red dot) you move into, the snake will get bigger.
 - If the snake touches its own body, game over.
-- To restart the game, simply upate the page.
+- To restart the game, simply refresh the page.
